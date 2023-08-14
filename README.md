@@ -9,7 +9,6 @@ Data and code used in a research article (citation info and DOI will be added la
 - Matplotlib 3.1.0
 - pybel (OpenBabel Python bindings)
 - OpenBabel 2
-- [molmass](https://pypi.org/project/molmass/) (version '2021.6.18')
 
 
 ## Reproducing the figures from the article
